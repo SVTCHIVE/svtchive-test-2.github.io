@@ -266,7 +266,7 @@ header.masthead .overlay-modify{
     width: 60% !important;
 }
 
-/* 원클릭 임시 버튼 */
+/* 멜론 원클릭용 컨테이너 */
 .melon-container{
     background-color: #05b121 !important;
     border-radius: 8px;
@@ -277,15 +277,19 @@ header.masthead .overlay-modify{
     padding: 8px 14px;
 }
 
+.melon-title{
+    font-size: 1.2rem;
+    color: #ffffff !important;
+    font-weight: 500;
+    background-color: transparent !important;
+}
+
 .melon-right{
     color: #ffffff !important;
     background-color: transparent !important;
 }
 
-.melon-title.have{
-    color: #ffffff !important;
-}
-
+/* 지니 원클릭용 컨테이너 */
 .genie-container{
     background-color: #3051e4 !important;
     border-radius: 8px;
@@ -296,15 +300,19 @@ header.masthead .overlay-modify{
     padding: 8px 14px;
 }
 
+.genie-title{
+    font-size: 1.2rem;
+    color: #ffffff !important;
+    font-weight: 500;
+    background-color: transparent !important;
+}
+
 .genie-right{
     color: #ffffff !important;
     background-color: transparent !important;
 }
 
-.genie-title.have{
-    color: #ffffff !important;
-}
-
+/* 벅스 원클릭용 컨테이너 */
 .bugs-container{
     background-color: #e43030 !important;
     border-radius: 8px;
@@ -315,15 +323,19 @@ header.masthead .overlay-modify{
     padding: 8px 14px;
 }
 
+.bugs-title{
+    font-size: 1.2rem;
+    color: #ffffff !important;
+    font-weight: 500;
+    background-color: transparent !important;
+}
+
 .bugs-right{
     color: #ffffff !important;
     background-color: transparent !important;
 }
 
-.bugs-title.have{
-    color: #ffffff !important;
-}
-
+/* 바이브 원클릭용 컨테이너 */
 .vibe-container{
     background-color: #9b1fcc !important;
     border-radius: 8px;
@@ -334,11 +346,15 @@ header.masthead .overlay-modify{
     padding: 8px 14px;
 }
 
-.vibe-right{
+.vibe-title{
+    font-size: 1.2rem;
     color: #ffffff !important;
+    font-weight: 500;
     background-color: transparent !important;
 }
 
-.vibe-title.have{
+
+.vibe-right{
     color: #ffffff !important;
+    background-color: transparent !important;
 }

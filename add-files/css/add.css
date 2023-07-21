@@ -369,25 +369,30 @@ header.masthead .overlay-modify{
     background-color: transparent !important;
 }
 
-/* 응원법 상세 2 */
-.white-container{
-    background-color: #ffffff !important;
+/* white box */
+.white-container {
+    background-color: #ffffff;
     border-radius: 4px;
     margin: 20px 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 8px 14px;
-}
-
-.white-title{
+  }
+  
+  .white-container .white-title {
     font-size: 1.2rem;
-    color: #1a1a1a !important;
+    color: #1a1a1a;
     font-weight: 500;
-    background-color: transparent !important;
-}
+    background-color: transparent;
+  }
+  
+  .white-container .white-right {
+    color: #727272;
+    background-color: transparent;
+  }
 
-.white-right{
-    color: #727272 !important;
-    background-color: transparent !important;
-}
+  
+  
+  
+  

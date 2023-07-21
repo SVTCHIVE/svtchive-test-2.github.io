@@ -265,3 +265,80 @@ header.masthead .overlay-modify{
 .m_container{
     width: 60% !important;
 }
+
+/* 원클릭 임시 버튼 */
+.melon-container{
+    background-color: #05b121 !important;
+    border-radius: 8px;
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 14px;
+}
+
+.melon-right{
+    color: #ffffff !important;
+    background-color: transparent !important;
+}
+
+.melon-title.have{
+    color: #ffffff !important;
+}
+
+.genie-container{
+    background-color: #3051e4 !important;
+    border-radius: 8px;
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 14px;
+}
+
+.genie-right{
+    color: #ffffff !important;
+    background-color: transparent !important;
+}
+
+.genie-title.have{
+    color: #ffffff !important;
+}
+
+.bugs-container{
+    background-color: #e43030 !important;
+    border-radius: 8px;
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 14px;
+}
+
+.bugs-right{
+    color: #ffffff !important;
+    background-color: transparent !important;
+}
+
+.bugs-title.have{
+    color: #ffffff !important;
+}
+
+.vibe-container{
+    background-color: #9b1fcc !important;
+    border-radius: 8px;
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 14px;
+}
+
+.vibe-right{
+    color: #ffffff !important;
+    background-color: transparent !important;
+}
+
+.vibe-title.have{
+    color: #ffffff !important;
+}

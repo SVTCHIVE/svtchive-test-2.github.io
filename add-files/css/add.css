@@ -368,3 +368,26 @@ header.masthead .overlay-modify{
     color: #ffffff !important;
     background-color: transparent !important;
 }
+
+/* 응원법 상세 2 */
+.white-container{
+    background-color: #ffffff !important;
+    border-radius: 4px;
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 14px;
+}
+
+.white-title{
+    font-size: 1.2rem;
+    color: #1a1a1a !important;
+    font-weight: 500;
+    background-color: transparent !important;
+}
+
+.white-right{
+    color: #727272 !important;
+    background-color: transparent !important;
+}

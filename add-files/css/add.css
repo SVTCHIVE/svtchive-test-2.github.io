@@ -261,14 +261,9 @@ header.masthead .overlay-modify{
     text-align: center;
 }
 
-/* 404 파일 수정 */
-.m_container{
-    width: 60% !important;
-}
-
 /* 멜론 원클릭용 컨테이너 */
 .melon-container{
-    background-color: #05b121 !important;
+    background-color: #009e1a !important;
     border-radius: 8px;
     margin: 20px 0;
     display: flex;
@@ -288,6 +283,12 @@ header.masthead .overlay-modify{
     color: #ffffff !important;
     background-color: transparent !important;
 }
+
+/* 404 파일 수정 */
+.m_container{
+    width: 60% !important;
+}
+
 
 /* 지니 원클릭용 컨테이너 */
 .genie-container{
